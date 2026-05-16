@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+font-size: 62.5%;
+
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+    font-size: 1.6rem; 
+    background: rgb(197, 193, 132); 
+    color:white; 
+
+    display: flex; 
+    flex-direction: column; 
+    height: 100vh; 
+}
+
+main {
+    width: 80%; 
+    margin: auto; 
+    padding-bottom: 2rem; 
+
+    flex: 1 ; 
+
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+} 
+
+h1{ 
+
+} 
+
+h2{
+
+
+}
+
+.btn {
+
+}
