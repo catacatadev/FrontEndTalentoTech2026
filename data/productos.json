@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1", 
+        "nombre": "Sala Bordó", 
+        "precio": 25000, 
+        "img": "img/sala-bordo.jpg"
+    }, 
+    {
+        "id": "2", 
+        "nombre": "Sala Beige", 
+        "precio": 20000, 
+        "img": "img/sala-beige.jpg"
+    }
+
+] 
+
+ 

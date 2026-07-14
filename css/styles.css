@@ -56,6 +56,20 @@ h2 {
     border-radius: 1rem; 
 } 
 
+.btn-eliminar-carrito {
+    background-color: cornsilk;
+    border: 2px solid crimson; 
+}
+
+.btn-vaciar-carrito {
+    background-color: papayawhip; 
+    color: chocolate; 
+} 
+
+.btn-vaciar-carrito:hover {
+    background-color: honeydew; 
+}
+
 header,  
 footer  {
     background: lavenderblush; 
@@ -197,6 +211,19 @@ footer .footer-list {
     min-height: 10rem; 
     resize: vertical;
 } 
+
+
+/*---------------------------
+------------Carrito----------
+-----------------------------*/
+
+.mensaje-carrito-vacio {
+    font-size: 2.5rem; 
+    margin-top: center; 
+}
+.acciones-carrito {
+    margin-top: 2rem;
+}
 
 /* ------------------------------
 --------- media queries -----------
