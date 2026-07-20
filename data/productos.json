@@ -3,13 +3,15 @@
         "id": "1", 
         "nombre": "Sala Bordó", 
         "precio": 25000, 
-        "img": "img/sala-bordo.jpg"
+        "img": "img/sala-bordo.jpg",
+        "descripcion": "Sala de 80 m² con espejo, barras para la danza, parlante bluetooth y piano. Alquiler por hora: "
     }, 
     {
         "id": "2", 
         "nombre": "Sala Beige", 
         "precio": 20000, 
-        "img": "img/sala-beige.jpg"
+        "img": "img/sala-beige.jpg", 
+        "descripcion": "Sala de 65 m² con espejo, luces, parlante bluetooth y materiales de entrenamiento. Alquiler por hora: " 
     }
 
 ] 
